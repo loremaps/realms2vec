@@ -2,6 +2,8 @@
 
 Using Word2Vec to explore semantic similarities between the entities of Forgotten Realms novels.
 
+![](drizzt.gif)
+
 ## Trained model
 
 Instead of training your own Word2Vec, you can use an existing trained model from the [Releases](https://github.com/loremaps/realms2vec/releases) page.
